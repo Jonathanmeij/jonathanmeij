@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Jonathan vd Meij</b>
+  <b>Jonathan Vd Meij</b>
 </h1>
 
 <p>
